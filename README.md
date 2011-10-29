@@ -1,5 +1,5 @@
-node-syslog
-===========
+node-nativesyslog
+=================
 
 This module is a simple logger for NodeJS to use /dev/log.
 
