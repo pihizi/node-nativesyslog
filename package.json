@@ -1,0 +1,10 @@
+{ "name" : "node-syslog"
+, "version" : "1.0.0"
+, "description" : "Syslog module for NodeJS"
+, "author" : "Janos Pasztor <net@janoszen.hu>"
+, "main" : "./lib/node-syslog.js"
+, "repository" : "http://github.com/janoszen/node-syslog"
+, "license" :
+  { "type" : "MIT"
+  , "url" : "https://github.com/janoszen/node-syslog/raw/master/LICENSE" }
+}
