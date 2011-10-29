@@ -6,9 +6,14 @@ This module is a simple logger for NodeJS to use /dev/log.
 Synopsis
 ========
 
-    var syslog = require('node-syslog')
+    var syslog = require('node-nativesyslog')
     var logger = new syslog.Syslog('test')
     logger.log(syslog.LOG_USER + syslog.LOG_ERR, 'Test message ' + Math.random())
+
+Installation
+============
+
+    npm install node-nativesyslog
 
 API
 ===

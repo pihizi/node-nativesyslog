@@ -1,6 +1,6 @@
 {
   "name": "node-nativesyslog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript-only syslog module for NodeJS",
   "author": "Janos Pasztor <net@janoszen.hu> (http://janoszen.com)",
   "main": "./lib/node-syslog.js",
